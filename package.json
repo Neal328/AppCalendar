@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://Neal328.github.io/AppCalendar",
+  "homepage": "https://neal328.github.io/AppCalendar",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
